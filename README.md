@@ -27,19 +27,19 @@ Hap terminalin ne folderin e projektit:
 
 
 Nise serverin:
-
+```powershell
 node server.js
-
+```
 
 Nise klientin ne nje terminal tjeter:
 
-
+```powershell
 node client.js
-
+```
 
 ## Komandat e adminit
 
-
+```text
 /list
 /read <filename>
 /upload <filename>
@@ -47,14 +47,14 @@ node client.js
 /delete <filename>
 /search <keyword>
 /info <filename>
-
+```
 
 Klientet `user` kane vetem:
 
-
+```text
 /list
 /read <filename>
-
+```
 
 ## Monitorimi
 

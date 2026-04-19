@@ -63,7 +63,7 @@ HTTP endpoint:
 
 - [http://127.0.0.1:8000/stats](http://127.0.0.1:8000/stats)
 
-Ky endpoint kthen ne `JSON`:
+Ky endpoint shfaq statistikat e serverit ne format te lexueshem.
 
 - lidhjet aktive
 - IP/ID e klienteve

@@ -101,5 +101,5 @@ const server = net.createServer((socket) => {
 });
 
 server.listen(PORT, HOST, () => {
-    console.log('TCP Server running on ${HOST}:${PORT}');
+    console.log(`TCP Server running on ${HOST}:${PORT}`);
 });
